@@ -1,0 +1,39 @@
+Do you want to work in the Strategy, Risk & Transactions - Advisory - Mergers & Acquisitions department and support clients throughout the entire M&A deal cycle - from strategy and due diligence to financing and technology issues through to the successful implementation and integration of transactions? Our team supports clients in buying, selling or merging companies - strategically, financially and legally.
+
+Make a difference with us and contribute to our common success as:  Intern Data & GenAI / M&A Analytics (m/f/d) .
+
+Location:  Frankfurt (Main) .
+Your impact:
+
+As an  Intern Data & GenAI / M&A Analytics (m/f/d) , you’ll play a pivotal role in facilitating data driven decisions that power major transactions. Here’s what you’ll do:
+
+    M&A Involvement : Participate in Financial Due Diligences for Private Equity and Corporate acquirers during key transaction processes.
+    Vendor Support : Assist your team in business sale processes through Vendor Assistance and Vendor Due Diligence.
+    Data Mastery : Develop algorithms and processes to curate, organize, and analyze critical information for decision-making.
+    Pipeline Development & Process Analysis:  Contribute to the design, construction, and enhancement of data pipelines, while orchestrating workflows and conducting thorough analysis of data processes.
+    Insightful Reporting : Prepare interactive reports and chapters for Financial Due Diligence/Financial Factbooks that drive meaningful outcomes. 
+
+Your skillset:
+
+    Education : Enrolment in the final semester of a Bachelor's or Master's degree in Computer Engineering, Data Science, Business Analytics, or a related field.
+    Programming Languages : Advanced knowledge of  Python  for data manipulation, scripting, and automating tasks.
+    Data Processing : Experience in using libraries like  pandas ,  NumPy , or similar tools to work with large datasets.
+    Node.js  and  React.js : For understanding or contributing to front-end analytics interfaces.
+    Large Language Models:  Proficiency in the use and architecture of large language models such as Claude, GPT, Azure OpenAI, or Azure Machine Learning, is a plus. This includes the ability to work with  API  integration, Retrieval-Augmented Generation, embeddings, vector databases, and prompt engineering.
+    Cloud Service Providers:  Previous exposure or experience with cloud platforms (Azure, AWS, GCP) is beneficial.
+    Portfolio : A portfolio showcasing past projects or hands-on experience in data analysis, dashboard creation, or algorithm development will be a big plus.
+    Languages : Fluency in  English and German  (written and spoken) is essential for this role.
+    Other Qualities : A self-motivated, responsible attitude, problemsolving mindest, coupled with strong organizational and communication skills, and a willingness to travel occasionally. 
+
+Your chance:
+
+    Real responsibility  for personal task packages within our projects, which you complete independently
+    Personal mentor  on your team who offers you help and advice and supports you with their extensive expertise
+    An international, opportunity-filled environment  which offers you unique insights into working at the world’s biggest audit and consulting firm
+    Work-life balance  in an innovative corporate environment with plenty to offer, including health days, staff events, and lots more
+    Cross-departmental networking  within the Deloitte Student Network, with exclusive presentations and regular dialog at intern meetups
+    Plenty of scope for creativity  and  active promotion of an inclusive corporate culture  – for instance through our diversity and inclusion employee networks 
+
+Your availability:
+
+As an intern you will ideally be available for a period of 3-6 months as of right now. 
